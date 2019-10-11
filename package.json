@@ -1,0 +1,23 @@
+{
+  "name": "truffle-anduschain-provider",
+  "version": "1.0.0",
+  "description": "truffle-anduschain-provicer",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anduschain/truffle-anduschain-provider.git"
+  },
+  "keywords": [
+    "truffle",
+    "anduschain"
+  ],
+  "author": "andus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anduschain/truffle-anduschain-provider/issues"
+  },
+  "homepage": "https://github.com/anduschain/truffle-anduschain-provider#readme"
+}
