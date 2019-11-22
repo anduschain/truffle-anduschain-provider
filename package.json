@@ -1,6 +1,6 @@
 {
   "name": "truffle-anduschain-provider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "truffle-anduschain-provicer",
   "main": "src/index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/anduschain/truffle-anduschain-provider#readme",
   "dependencies": {
-    "anduschain-js": "^0.5.1",
+    "anduschain-js": "^0.5.2",
     "eth-sig-util": "^2.4.4",
     "ethereumjs-util": "^6.1.0",
     "ethereumjs-wallet": "^0.6.3",
